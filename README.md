@@ -1,6 +1,6 @@
-Student Name: [Your Name]  
+Student Name: Bethel Musanda
 Student ID: [Your Student ID]  
-GitHub Repository: [Paste Repository URL Here]
+GitHub Repository: [[Paste Repository URL Here]](https://github.com/engbethel/WEB-DEVELOPMENT-PROJECT.git)
 
 ---
 
